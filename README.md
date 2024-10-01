@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SlimCakes
+- 👋 Hi, I’m @BigSue
 - 👀 I’m interested in User interface design and front-end development
 - 🌱 I’m currently learning Frontend development
 - 💞️ I’m looking to collaborate on both user interface designs and frontend coding
